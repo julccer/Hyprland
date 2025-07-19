@@ -13,7 +13,7 @@
 
 <br>
 
-Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. Definetly.
 
 It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins,
 easy IPC, much more QoL stuff than other compositors and more...
